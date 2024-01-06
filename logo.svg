@@ -3,15 +3,15 @@
 <svg width="500" height="500" viewBox="-400 -400 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="r">
-            <stop offset="0%" stop-color="red"/>
-            <stop offset="33.33%" stop-color="#ff0"/>
-            <stop offset="50%" stop-color="#0f0"/>
-            <stop offset="66.67%" stop-color="cyan"/>
-            <stop offset="83.33%" stop-color="blue"/>
+            <stop offset="0%" stop-color="#f00"/>
+            <stop offset="20%" stop-color="#ff0"/>
+            <stop offset="40%" stop-color="#0f0"/>
+            <stop offset="60%" stop-color="#0ff"/>
+            <stop offset="80%" stop-color="#00f"/>
             <stop offset="100%" stop-color="#f0f"/>
         </linearGradient>
     </defs>
-    <g color="blueviolet">
+    <g color="#fff">
         <circle x="0" y="0" r="264.57513110645907" fill="url(#r)" stroke="currentcolor" stroke-width="20"/>
         <line x1="-173.20508075688772" x2="86.60254037844386" y1="-200" y2="250" stroke="currentcolor" stroke-width="20" />
         <line x1="173.20508075688772" x2="-86.60254037844386" y1="-200" y2="250" stroke="currentcolor" stroke-width="20" />
