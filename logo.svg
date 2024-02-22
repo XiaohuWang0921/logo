@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="500" height="500" viewBox="-400 -400 800 800" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="-284.57513110645907 -284.57513110645907 569.150262212918 569.150262212918" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="r">
-            <stop offset="0%" stop-color="#f00"/>
-            <stop offset="20%" stop-color="#ff0"/>
-            <stop offset="40%" stop-color="#0f0"/>
-            <stop offset="60%" stop-color="#0ff"/>
-            <stop offset="80%" stop-color="#00f"/>
-            <stop offset="100%" stop-color="#f0f"/>
+            <stop offset="0%" stop-color="#e00"/>
+            <stop offset="20%" stop-color="#ee0"/>
+            <stop offset="40%" stop-color="#0e0"/>
+            <stop offset="60%" stop-color="#0ee"/>
+            <stop offset="80%" stop-color="#00e"/>
+            <stop offset="100%" stop-color="#e0e"/>
         </linearGradient>
     </defs>
     <g color="#fff">
